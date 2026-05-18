@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://smart-leads-dashboard-89n1.onrender.com',
+        target: 'https://smart-leads-dashboard-7u9i.onrender.com',
         changeOrigin: true,
       },
     },
