@@ -2,6 +2,10 @@
 
 A full-stack Lead Management Dashboard built with the MERN stack and TypeScript.
 
+## 🚀 Live Demo
+- **Frontend (Vercel):** [https://smart-leads-dashboard-iota.vercel.app](https://smart-leads-dashboard-iota.vercel.app)
+- **Backend API (Render):** [https://smart-leads-dashboard-7u9i.onrender.com/api/health](https://smart-leads-dashboard-7u9i.onrender.com/api/health)
+
 ## Tech Stack
 
 | Layer      | Tech                                     |
